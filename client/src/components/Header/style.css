@@ -3,14 +3,19 @@
 .home-grid {
    display: grid;
    grid-template-columns: repeat(3, 1fr);
+
 }
 
 /* set logo-image size */
 .logo-image {
    width: 200px;
    height: 200px;
-
 }
+
+
+
+
+
 /* set home-grid nav-style to center */
 .home-grid {
    display: grid;
@@ -22,8 +27,10 @@
 .home-style {
    background-color: #394552;
    margin-bottom: 0%;
+   /* thin line bottom */
+   border-bottom: 4px solid #282537;
+   
 }
-
 
 
 .home-list-grid {
@@ -52,7 +59,6 @@
    }
 }
 
-/* Nav Styling */
 
 
 

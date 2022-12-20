@@ -11,10 +11,7 @@
    height: 200px;
 }
 
-/* add thin line at top of nav bar  */
-.nav-style {
-   border-top: 1px solid #EBEBEB;
-}
+
 
 .nav-list-grid {
    display: grid;
@@ -47,7 +44,7 @@
 
 .nav-style {
    background-color: #42626B;
-   padding: 8px;
+   padding: 0px;
    margin-bottom: 1%;
 }
 

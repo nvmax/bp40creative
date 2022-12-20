@@ -5,10 +5,10 @@ import './style.css'
 function Nav() {
     
         return (
-            <nav className='home-grid home-style'>
-            <ul className='home-list-grid nav-list-style font-Poppins'>
-                <li><Link className='home-list-item-styling' to="/signup">Signup</Link></li>
-                <li><Link className='home-list-item-styling' to="/login">Login</Link></li>
+            <nav className='nav-grid home-style'>
+            <ul className='nav-list-grid nav-list-style font-Poppins'>
+                <li><Link className='nav-list-item-styling' to="/signup">Signup</Link></li>
+                <li><Link className='nav-list-item-styling' to="/login">Login</Link></li>
  
             </ul>
             

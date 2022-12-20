@@ -7,7 +7,7 @@ import logo from '../../images/bp40CreativeNoURL.png'
 function Header() {
     
         return (
-            <header className='home-grid nav-style'>
+            <header className='home-grid home-style'>
              {/* add logo image  */}
             <img src={logo} alt="logo" className='logo-image'/>
         </header>
